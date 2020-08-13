@@ -1,0 +1,2 @@
+rootProject.name='android_word_book_app'
+include ':app'
